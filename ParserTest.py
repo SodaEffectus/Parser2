@@ -1,8 +1,8 @@
 import unittest
 import robobas
 
-str11 = "Добрый день, aboba, высылаю линку https://github.com/omriharel/sd5223 вариант 0"
-str12 = "Добрый день, aboba, высылаю линку https://github.com/omriharel/sd6666 вариант 155"
+str11 = "Добрый день высылаю линку https://github.com/omriharel/sd5223 вариант 0"
+str12 = "Добрый день высылаю линку https://github.com/omriharel/sd6666 вариант 155"
 
 class MyTestCase(unittest.TestCase):
 
